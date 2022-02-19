@@ -1,0 +1,42 @@
+body {
+    background-image: url();
+    background-image: url(../img/amin-moshrefi-4RZVMlsIRTM-unsplash.jpg);
+    position: fixed;
+}
+
+#font-face {
+    font-family: sans-serif;
+    src: url();
+}
+
+#fundoGame {
+    border: solid white 2px;
+    width: 950px;
+    height: 630px;
+}
+
+#jogador1 {
+    background-color: black;
+    height: 90px;
+    width: 90px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #dd860c;
+}
+
+p {
+    color: rgb(235, 227, 223);
+    font-weight: 800;
+    text-align: start;
+    padding: 0 0 0 15px;
+}
+
+#container {
+    background-color: rgb(100, 114, 114);
+    height: 290px;
+    width: 330px;
+    text-align: center;
+
+} 
